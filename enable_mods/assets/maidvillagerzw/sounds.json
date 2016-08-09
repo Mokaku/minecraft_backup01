@@ -1,0 +1,137 @@
+{
+    "entity.maidvillager.death" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/death"
+        ]
+    },
+    "entity.maidvillager.trading" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/haggle1",
+            "maidvillagerzw:mob/villager/haggle2",
+            "maidvillagerzw:mob/villager/haggle3",
+            "maidvillagerzw:mob/villager/naninani_02"
+        ]
+    },
+    "entity.maidvillager.hurt" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/hit1",
+            "maidvillagerzw:mob/villager/hit2",
+            "maidvillagerzw:mob/villager/hit3",
+            "maidvillagerzw:mob/villager/hit4"
+        ]
+    },
+    "entity.maidvillager.ambient" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/idle1",
+            "maidvillagerzw:mob/villager/idle2",
+            "maidvillagerzw:mob/villager/idle3"
+        ]
+    },
+    "entity.maidvillager.no" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/no1",
+            "maidvillagerzw:mob/villager/no2",
+            "maidvillagerzw:mob/villager/no3"
+        ]
+    },
+    "entity.maidvillager.yes" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/villager/yes1",
+            "maidvillagerzw:mob/villager/yes2",
+            "maidvillagerzw:mob/villager/yes3"
+        ]
+    },
+    "entity.maidzombie.death" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/death"
+        ]
+    },
+    "entity.maidzombie.hurt" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/hurt1",
+            "maidvillagerzw:mob/zombie/hurt2"
+        ]
+    },
+    "entity.maidzombie.ambient" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/say1",
+            "maidvillagerzw:mob/zombie/say2",
+            "maidvillagerzw:mob/zombie/say3"
+        ]
+    },
+    "entity.maidzombie.converted" : {
+        "category" : "neutral",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/fukkatsu1",
+            "maidvillagerzw:mob/zombie/taddaima1",
+            "maidvillagerzw:mob/zombie/ikikaeru1"
+        ]
+    },
+    "entity.maidzombie.cure" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/cure1"
+        ]
+    },
+    "entity.maidzombie.step" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/zombie/step1",
+            "maidvillagerzw:mob/zombie/step2",
+            "maidvillagerzw:mob/zombie/step3",
+            "maidvillagerzw:mob/zombie/step4",
+            "maidvillagerzw:mob/zombie/step5"
+        ]
+    },
+    "entity.maidwitch.death" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/witch/death"
+        ]
+    },
+    "entity.maidwitch.ambient" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/witch/say1",
+            "maidvillagerzw:mob/witch/say2",
+            "maidvillagerzw:mob/witch/say3",
+            "maidvillagerzw:mob/witch/say4",
+            "maidvillagerzw:mob/witch/say5"
+        ]
+    },
+    "entity.maidwitch.hurt" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/witch/hurt1",
+            "maidvillagerzw:mob/witch/hurt2"
+        ]
+    },
+    "entity.maidwitch.drink" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/witch/drink1",
+            "maidvillagerzw:mob/witch/drink2",
+            "maidvillagerzw:mob/witch/drink3",
+            "maidvillagerzw:mob/witch/drink4",
+            "maidvillagerzw:mob/witch/drink5",
+            "maidvillagerzw:mob/witch/drink6"
+        ]
+    },
+    "entity.maidwitch.throw" : {
+        "category" : "hostile",
+        "sounds" : [
+            "maidvillagerzw:mob/witch/throw1",
+            "maidvillagerzw:mob/witch/throw2"
+        ]
+    }
+
+}

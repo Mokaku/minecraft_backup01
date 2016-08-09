@@ -1,74 +1,53 @@
-[21:15:33] [Client thread/INFO]: Setting user: mokaku
-[21:15:38] [Client thread/WARN]: Skipping bad option: lastServer:
-[21:15:38] [Client thread/INFO]: LWJGL Version: 2.9.2
-[21:15:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks
-[21:15:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:15:42] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[21:15:42] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:15:42] [Thread-7/INFO]: OpenAL initialized.
-[21:15:43] [Sound Library Loader/INFO]: Sound engine started
-[21:15:44] [Client thread/INFO]: Created: 16x16 textures-atlas
-[21:15:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks, LiteLoader, VoxelMap
-[21:15:49] [Client thread/INFO]: Created: 512x512 textures-atlas
-[21:15:50] [Client thread/WARN]: Skipping bad option: lastServer:
-[21:15:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks, LiteLoader, VoxelMap
-[21:15:52] [Client thread/INFO]: Created: 512x512 textures-atlas
-[21:15:55] [Client thread/INFO]: SoundSystem shutting down...
-[21:15:55] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[21:15:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:15:55] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[21:15:55] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:15:55] [Thread-9/INFO]: OpenAL initialized.
-[21:15:55] [Sound Library Loader/INFO]: Sound engine started
-[21:16:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks, LiteLoader, VoxelMap, TEX_D2_32x_1.9.zip
-[21:16:16] [Client thread/INFO]: SoundSystem shutting down...
-[21:16:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[21:16:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:16:17] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[21:16:17] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:16:17] [Thread-11/INFO]: OpenAL initialized.
-[21:16:17] [Sound Library Loader/INFO]: Sound engine started
-[21:16:18] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[21:16:54] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
-[21:16:54] [Server thread/INFO]: Generating keypair
-[21:16:54] [Server thread/INFO]: Preparing start region for level 0
-[21:16:55] [Server thread/INFO]: Preparing spawn area: 29%
-[21:16:57] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:16:58] [Server thread/INFO]: mokaku[local:E:3f376947] logged in with entity id 702 at (133.9088546136423, 64.0, 298.3993018353948)
-[21:16:58] [Server thread/INFO]: mokaku がゲームに参加しました
-[21:16:59] [Client thread/INFO]: [CHAT] InvTweaks: コンフィグが読み込まれました
-[21:16:59] [Server thread/INFO]: Saving and pausing game...
-[21:16:59] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:17:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:17:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:33:31] [Server thread/INFO]: Saving and pausing game...
-[21:33:31] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:33:31] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:33:31] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:48:58] [Server thread/INFO]: Saving and pausing game...
-[21:48:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:48:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:48:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:50:24] [Server thread/WARN]: mokaku moved wrongly!
-[21:51:59] [Server thread/WARN]: ウマ moved wrongly!
-[21:56:30] [Server thread/INFO]: Saving and pausing game...
-[21:56:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:56:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:56:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:57:54] [Server thread/INFO]: Saving and pausing game...
-[21:57:54] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:57:54] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:57:54] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:57:57] [Server thread/INFO]: Saving and pausing game...
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:57:57] [Server thread/INFO]: Stopping server
-[21:57:57] [Server thread/INFO]: Saving players
-[21:57:57] [Server thread/INFO]: Saving worlds
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[21:57:57] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[21:58:01] [Client thread/INFO]: Stopping!
-[21:58:01] [Client thread/INFO]: SoundSystem shutting down...
-[21:58:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:44:32] [Client thread/INFO]: Setting user: mokaku
+[22:44:37] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:44:37] [Client thread/INFO]: LWJGL Version: 2.9.2
+[22:44:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, TEX_D2_32x_1.9.zip
+[22:44:40] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:44:41] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[22:44:41] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:44:41] [Thread-7/INFO]: OpenAL initialized.
+[22:44:41] [Sound Library Loader/INFO]: Sound engine started
+[22:44:42] [Client thread/INFO]: Created: 16x16 textures-atlas
+[22:44:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, LiteLoader, VoxelMap, TEX_D2_32x_1.9.zip
+[22:44:47] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:44:48] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:44:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, LiteLoader, VoxelMap, TEX_D2_32x_1.9.zip
+[22:44:49] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:44:52] [Client thread/INFO]: SoundSystem shutting down...
+[22:44:53] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:44:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:44:53] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[22:44:53] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:44:53] [Thread-9/INFO]: OpenAL initialized.
+[22:44:53] [Sound Library Loader/INFO]: Sound engine started
+[22:45:02] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[22:45:02] [Server thread/INFO]: Generating keypair
+[22:45:03] [Server thread/INFO]: Preparing start region for level 0
+[22:45:04] [Server thread/INFO]: Preparing spawn area: 3%
+[22:45:05] [Server thread/INFO]: Preparing spawn area: 95%
+[22:45:05] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:45:07] [Server thread/INFO]: mokaku[local:E:d6ef740e] logged in with entity id 691 at (138.2615663354322, 33.0, 354.84252511028376)
+[22:45:07] [Server thread/INFO]: mokaku がゲームに参加しました
+[22:45:08] [Client thread/INFO]: [CHAT] InvTweaks: コンフィグが読み込まれました
+[22:45:08] [Server thread/INFO]: Saving and pausing game...
+[22:45:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[22:45:09] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[22:45:09] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[22:45:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3324ms behind, skipping 66 tick(s)
+[22:48:08] [Server thread/INFO]: Saving and pausing game...
+[22:48:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[22:48:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[22:48:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[22:50:49] [Server thread/INFO]: Saving and pausing game...
+[22:50:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[22:50:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[22:50:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[22:50:50] [Server thread/INFO]: Stopping server
+[22:50:50] [Server thread/INFO]: Saving players
+[22:50:50] [Server thread/INFO]: Saving worlds
+[22:50:50] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[22:50:50] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[22:50:50] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[22:50:54] [Client thread/INFO]: Stopping!
+[22:50:54] [Client thread/INFO]: SoundSystem shutting down...
+[22:50:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

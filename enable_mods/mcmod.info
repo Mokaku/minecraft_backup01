@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MaidVillagerZW",
+  "name": "MaidVillagerZW",
+  "description": "村人をメイドさんにするMOD",
+  "version": "1.9-beta-1.1",
+  "mcversion": "1.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MMM","remixed by Ｐ老師","voms","きち＠通りすがらない","akai_kudamono","hanku","ペコリン"],
+  "credits": "created by かを┃━┏┃",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
