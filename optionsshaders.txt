@@ -1,5 +1,5 @@
-#Sun Jul 17 21:01:16 JST 2016
-shaderPack=OFF
+#Sat Aug 13 10:32:56 JST 2016
+shaderPack=(internal)
 antialiasingLevel=2
 normalMapEnabled=true
 specularMapEnabled=false
