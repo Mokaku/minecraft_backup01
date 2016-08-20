@@ -1,98 +1,13 @@
-[00:18:22] [Server thread/INFO]: Saving and pausing game...
-[00:18:22] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[00:18:22] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[00:18:22] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[00:18:26] [Server thread/INFO]: Saving and pausing game...
-[00:18:26] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[00:18:26] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[00:18:26] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[00:56:15] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
-[01:05:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 134 ms
-[01:46:25] [Client thread/INFO]: [CHAT] CutAll ON
-[01:48:01] [Client thread/INFO]: [CHAT] DigAll ON
-[02:21:42] [Server thread/WARN]: mokaku moved wrongly!
-[02:40:30] [Server thread/INFO]: Saving and pausing game...
-[02:40:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:40:31] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:40:31] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:40:35] [Server thread/INFO]: Saving and pausing game...
-[02:40:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:40:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:40:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:40:37] [Server thread/INFO]: Saving and pausing game...
-[02:40:37] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:40:37] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:40:37] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:40:53] [Server thread/INFO]: Saving and pausing game...
-[02:40:53] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:40:53] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:40:53] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:40:58] [Server thread/INFO]: Saving and pausing game...
-[02:40:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:40:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:40:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:41:00] [Server thread/INFO]: Saving and pausing game...
-[02:41:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:41:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:41:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:41:12] [Server thread/INFO]: Saving and pausing game...
-[02:41:12] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:41:12] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:41:12] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:41:14] [Server thread/INFO]: Saving and pausing game...
-[02:41:14] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:41:14] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:41:14] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:41:15] [Server thread/INFO]: Saving and pausing game...
-[02:41:15] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:41:15] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:41:15] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:44:35] [Server thread/INFO]: Saving and pausing game...
-[02:44:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:44:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:44:35] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:45:36] [Server thread/INFO]: Saving and pausing game...
-[02:45:36] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:45:36] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:45:36] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:45:52] [Server thread/INFO]: Saving and pausing game...
-[02:45:52] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:45:52] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:45:52] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:27:03] [Server thread/INFO]: Saving and pausing game...
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:27:03] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:45:42] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
-[03:45:43] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
-[03:47:48] [Server thread/INFO]: Saving and pausing game...
-[03:47:48] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:47:48] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:47:48] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:52:30] [Server thread/INFO]: Saving and pausing game...
-[03:52:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:52:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:52:30] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:56:20] [Server thread/INFO]: Saving and pausing game...
-[03:56:20] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:56:21] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:56:21] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[04:00:38] [Client thread/INFO]: [CHAT] オオカミ は mokaku に殺害された
-[04:10:59] [Server thread/INFO]: Saving and pausing game...
-[04:10:59] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[04:10:59] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[04:10:59] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[04:11:01] [Server thread/INFO]: Stopping server
-[04:11:01] [Server thread/INFO]: Saving players
-[04:11:01] [Server thread/INFO]: Saving worlds
-[04:11:01] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[04:11:01] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[04:11:01] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[04:11:08] [Client thread/INFO]: Stopping!
-[04:11:08] [Client thread/INFO]: SoundSystem shutting down...
-[04:11:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[00:17:42] [Server thread/INFO]: Saving and pausing game...
+[00:17:42] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[00:17:42] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[00:17:42] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[00:17:45] [Server thread/INFO]: Stopping server
+[00:17:45] [Server thread/INFO]: Saving players
+[00:17:45] [Server thread/INFO]: Saving worlds
+[00:17:45] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[00:17:45] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[00:17:45] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[00:17:49] [Client thread/INFO]: Stopping!
+[00:17:49] [Client thread/INFO]: SoundSystem shutting down...
+[00:17:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
