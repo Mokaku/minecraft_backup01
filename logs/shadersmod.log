@@ -9,8 +9,8 @@
 [Shaders] Load ShadersMod configuration.
 [Shaders] Loaded shaderpack: (internal)
 [Shaders] allocateTextureMap 4 16 16 
-[Shaders] allocateTextureMap 4 1024 512 
-[Shaders] allocateTextureMap 4 1024 512 
+[Shaders] allocateTextureMap 4 2048 2048 
+[Shaders] allocateTextureMap 4 2048 2048 
 [Shaders] usedColorBuffers: 4
 [Shaders] usedDepthBuffers: 1
 [Shaders] usedShadowColorBuffers: 0
@@ -20,4 +20,3 @@
 [Shaders] Framebuffer created.
 [Shaders] Reset world renderers
 [Shaders] Reset model renderers
-[Shaders] Framebuffer created.

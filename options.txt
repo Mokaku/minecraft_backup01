@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:true
-resourcePacks:["TEX_D2_32x_1.9.zip"]
+resourcePacks:["HDGUI 1.3.zip","[1.10] R3D CRAFT 64x (v0.3.0).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ja_JP
@@ -46,7 +46,7 @@ reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
 mainHand:right
-attackIndicator:1
+attackIndicator:2
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
