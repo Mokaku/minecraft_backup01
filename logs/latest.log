@@ -1,76 +1,193 @@
-[02:08:31] [Client thread/INFO]: Setting user: mokaku
-[02:08:36] [Client thread/WARN]: Skipping bad option: lastServer:
-[02:08:36] [Client thread/INFO]: LWJGL Version: 2.9.2
-[02:08:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[02:08:40] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[02:08:40] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[02:08:40] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[02:08:40] [Thread-7/INFO]: OpenAL initialized.
-[02:08:41] [Sound Library Loader/INFO]: Sound engine started
-[02:08:44] [Client thread/INFO]: Created: 16x16 textures-atlas
-[02:08:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, LiteLoader, VoxelMap, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[02:08:50] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[02:08:52] [Client thread/WARN]: Skipping bad option: lastServer:
-[02:08:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, LiteLoader, VoxelMap, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[02:08:55] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[02:08:59] [Client thread/INFO]: SoundSystem shutting down...
-[02:08:59] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[02:08:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[02:08:59] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[02:08:59] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[02:08:59] [Thread-9/INFO]: OpenAL initialized.
-[02:09:00] [Sound Library Loader/INFO]: Sound engine started
-[02:09:56] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
-[02:09:56] [Server thread/INFO]: Generating keypair
-[02:09:56] [Server thread/INFO]: Preparing start region for level 0
-[02:09:57] [Server thread/INFO]: Preparing spawn area: 4%
-[02:09:58] [Server thread/INFO]: Preparing spawn area: 76%
-[02:09:59] [Server thread/INFO]: Changing view distance to 12, from 10
-[02:10:00] [Server thread/INFO]: mokaku[local:E:0f6da7ff] logged in with entity id 764 at (126.5, 65.0, 317.5)
-[02:10:00] [Server thread/INFO]: mokaku がゲームに参加しました
-[02:10:01] [Client thread/INFO]: [CHAT] InvTweaks: コンフィグが読み込まれました
-[02:10:01] [Server thread/INFO]: Saving and pausing game...
-[02:10:01] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:10:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:10:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:10:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2556ms behind, skipping 51 tick(s)
-[02:10:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 804 ms
-[02:10:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 379 ms
-[02:10:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 218 ms
-[02:10:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 197 ms
-[02:12:38] [Server thread/INFO]: Saving and pausing game...
-[02:12:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:12:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:12:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:26:14] [Client thread/INFO]: [CHAT] MineAll ON
-[02:26:19] [Client thread/INFO]: [CHAT] MineAll OFF
-[02:39:24] [Server thread/INFO]: Saving and pausing game...
-[02:39:24] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:39:25] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:39:25] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:50:55] [Server thread/INFO]: Saving and pausing game...
-[02:50:55] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:50:55] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:50:55] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[02:53:55] [Client thread/INFO]: [CHAT] MineAll ON
-[02:54:52] [Client thread/INFO]: [CHAT] MineAll OFF
-[02:57:19] [Server thread/INFO]: Saving and pausing game...
-[02:57:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[02:57:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[02:57:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:09:51] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[03:42:34] [Client thread/INFO]: [CHAT] MineAll ON
-[03:43:38] [Client thread/INFO]: [CHAT] MineAll OFF
-[03:51:16] [Server thread/INFO]: Saving and pausing game...
-[03:51:16] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:51:17] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:51:17] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:51:21] [Server thread/INFO]: Stopping server
-[03:51:21] [Server thread/INFO]: Saving players
-[03:51:21] [Server thread/INFO]: Saving worlds
-[03:51:21] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
-[03:51:21] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
-[03:51:21] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
-[03:51:24] [Client thread/INFO]: Stopping!
-[03:51:24] [Client thread/INFO]: SoundSystem shutting down...
-[03:51:24] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[00:51:50] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:37:55] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:37:55] [pool-3-thread-3/ERROR]: Couldn't get trial availability
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.trialAvailable(RealmsClient.java:368) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$TrialAvailabilityTask.getTrialAvailable(RealmsDataFetcher.java:263) [RealmsDataFetcher$TrialAvailabilityTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$TrialAvailabilityTask.run(RealmsDataFetcher.java:254) [RealmsDataFetcher$TrialAvailabilityTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:37:55] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:37:55] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:01] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Could not connect to Realms: pc.realms.minecraft.net
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:438) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:12] [pool-3-thread-3/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:38:12] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:21] [pool-3-thread-3/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:38:21] [pool-3-thread-3/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:31] [pool-3-thread-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:38:31] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:31] [pool-3-thread-3/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:38:31] [pool-3-thread-3/ERROR]: Couldn't get trial availability
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.trialAvailable(RealmsClient.java:368) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$TrialAvailabilityTask.getTrialAvailable(RealmsDataFetcher.java:263) [RealmsDataFetcher$TrialAvailabilityTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$TrialAvailabilityTask.run(RealmsDataFetcher.java:254) [RealmsDataFetcher$TrialAvailabilityTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:38:41] [pool-3-thread-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:38:41] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:39:19] [pool-3-thread-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:39:19] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:39:29] [pool-3-thread-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:39:29] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:39:39] [pool-3-thread-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:39:39] [pool-3-thread-1/ERROR]: Couldn't get pending invite count
+com.mojang.realmsclient.exception.RealmsServiceException: Invalid session id
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:423) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.client.RealmsClient.pendingInvitesCount(RealmsClient.java:314) ~[RealmsClient.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.updatePendingInvites(RealmsDataFetcher.java:236) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at com.mojang.realmsclient.gui.RealmsDataFetcher$PendingInviteUpdateTask.run(RealmsDataFetcher.java:227) [RealmsDataFetcher$PendingInviteUpdateTask.class:1.9.5]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_74]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [?:1.8.0_74]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_74]
+[09:39:47] [Client thread/INFO]: Stopping!
+[09:39:47] [Client thread/INFO]: SoundSystem shutting down...
+[09:39:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
