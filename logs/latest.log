@@ -1,25 +1,134 @@
-[16:57:39] [Client thread/INFO]: Setting user: mokaku
-[16:57:46] [Client thread/WARN]: Skipping bad option: lastServer:
-[16:57:46] [Client thread/INFO]: LWJGL Version: 2.9.2
-[16:57:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[16:57:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:57:52] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[16:57:52] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:57:52] [Thread-7/INFO]: OpenAL initialized.
-[16:57:52] [Sound Library Loader/INFO]: Sound engine started
-[16:57:56] [Client thread/INFO]: Created: 16x16 textures-atlas
-[16:59:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, LiteLoader, VoxelMap, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[16:59:14] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[16:59:17] [Client thread/WARN]: Skipping bad option: lastServer:
-[16:59:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CutAllSMP, FMLFileResourcePack:DigAllSMP, FMLFileResourcePack:MineAllSMP, FMLFileResourcePack:Custom Crosshair Mod, FMLFileResourcePack:EBLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:SpawnChecker preset mode, FMLFileResourcePack:SpawnChecker, LiteLoader, VoxelMap, HDGUI 1.3.zip, [1.10] R3D CRAFT 64x (v0.3.0).zip
-[16:59:21] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[16:59:28] [Client thread/INFO]: SoundSystem shutting down...
-[16:59:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:59:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:59:29] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[16:59:29] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:59:29] [Thread-9/INFO]: OpenAL initialized.
-[16:59:29] [Sound Library Loader/INFO]: Sound engine started
-[16:59:55] [Client thread/INFO]: Stopping!
-[16:59:55] [Client thread/INFO]: SoundSystem shutting down...
-[16:59:56] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[00:22:49] [Server thread/INFO]: Saving and pausing game...
+[00:22:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[00:22:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[00:22:49] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[00:45:21] [Client thread/INFO]: [CHAT] MineAll ON
+[00:45:23] [Client thread/INFO]: [CHAT] MineAll OFF
+[00:45:23] [Client thread/INFO]: [CHAT] DigAll ON
+[00:45:24] [Client thread/INFO]: [CHAT] DigAll OFF
+[00:45:25] [Client thread/INFO]: [CHAT] CutAll OFF
+[00:45:26] [Client thread/INFO]: [CHAT] CutAll ON
+[01:07:16] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:17] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:19] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:20] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:22] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:23] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:24] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:29] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:30] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:31] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:32] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:07:33] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:09:02] [Server thread/INFO]: Saving and pausing game...
+[01:09:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:09:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:09:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:18:01] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:18:05] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:18:06] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:27:38] [Server thread/INFO]: Saving and pausing game...
+[01:27:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:27:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:27:38] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:29:40] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:42] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:43] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:44] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:51] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:52] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:53] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:58] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:29:59] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:00] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:00] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:01] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:02] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:03] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:03] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:04] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:05] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:05] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:06] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:30:17] [Server thread/INFO]: Saving and pausing game...
+[01:30:17] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:30:17] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:30:17] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:33:08] [Server thread/INFO]: Saving and pausing game...
+[01:33:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:33:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:33:08] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:33:10] [Server thread/INFO]: Stopping server
+[01:33:10] [Server thread/INFO]: Saving players
+[01:33:10] [Server thread/INFO]: Saving worlds
+[01:33:10] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:33:10] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:33:10] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:33:16] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[01:33:16] [Server thread/INFO]: Generating keypair
+[01:33:16] [Server thread/INFO]: Preparing start region for level 0
+[01:33:17] [Server thread/INFO]: Preparing spawn area: 96%
+[01:33:17] [Server thread/INFO]: Changing view distance to 12, from 10
+[01:33:17] [Server thread/INFO]: mokaku[local:E:1e0123f0] logged in with entity id 670375 at (105.98621218383451, 63.0, 298.87623311690476)
+[01:33:17] [Server thread/INFO]: mokaku がゲームに参加しました
+[01:33:19] [Server thread/INFO]: Saving and pausing game...
+[01:33:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:33:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:33:19] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:33:23] [Server thread/INFO]: Saving and pausing game...
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:33:23] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:33:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 256 ms
+[01:33:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 146 ms
+[01:39:23] [Server thread/INFO]: Saving and pausing game...
+[01:39:23] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[01:39:24] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[01:39:24] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[01:42:55] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:42:57] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:04] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:07] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:09] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:12] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:15] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:17] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:20] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:22] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:23] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:24] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:25] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:25] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:26] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:28] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:30] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:34] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:35] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[01:43:38] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:05:58] [Server thread/INFO]: Saving and pausing game...
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[02:15:32] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:34] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:42] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:43] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:44] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:47] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:48] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:48] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:49] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:50] [Client thread/INFO]: [CHAT] 夜になるまで眠れません
+[02:15:59] [Server thread/INFO]: Saving and pausing game...
+[02:15:59] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[02:16:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[02:16:00] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[02:16:02] [Server thread/INFO]: Stopping server
+[02:16:02] [Server thread/INFO]: Saving players
+[02:16:02] [Server thread/INFO]: Saving worlds
+[02:16:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Overworld
+[02:16:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/Nether
+[02:16:02] [Server thread/INFO]: Saving chunks for level 'Hiro_02'/The End
+[02:16:04] [Client thread/INFO]: Stopping!
+[02:16:04] [Client thread/INFO]: SoundSystem shutting down...
+[02:16:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

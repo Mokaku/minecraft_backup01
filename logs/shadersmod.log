@@ -1,7 +1,7 @@
 [Shaders] ShadersMod version: 2.4.12
 [Shaders] OpenGL Version: 2.1 INTEL-10.14.73
 [Shaders] Vendor:  Intel Inc.
-[Shaders] Renderer: Intel Iris OpenGL Engine
+[Shaders] Renderer: Intel(R) Iris(TM) Graphics 6100
 [Shaders] Capabilities:  2.0  2.1  -  -  - 
 [Shaders] GL_MAX_DRAW_BUFFERS: 8
 [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
@@ -11,3 +11,12 @@
 [Shaders] allocateTextureMap 4 16 16 
 [Shaders] allocateTextureMap 4 2048 2048 
 [Shaders] allocateTextureMap 4 2048 2048 
+[Shaders] usedColorBuffers: 4
+[Shaders] usedDepthBuffers: 1
+[Shaders] usedShadowColorBuffers: 0
+[Shaders] usedShadowDepthBuffers: 0
+[Shaders] usedColorAttachs: 4
+[Shaders] usedDrawBuffers: 1
+[Shaders] Framebuffer created.
+[Shaders] Reset world renderers
+[Shaders] Reset model renderers
